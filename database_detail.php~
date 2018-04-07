@@ -1,0 +1,8 @@
+<?php
+
+$username="mandeep";
+$password="MANdeep";
+$database="mandeep_bookdocfast";
+$server = "localhost";
+
+?>
